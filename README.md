@@ -1,6 +1,6 @@
 # AutoCAD-Designs
 
-This repository contains my architectural Revit (.rvt) design files.
+This repository contains my AutoCAD design files.
 
 Contents- Residential House Plans, Commercial Building Layouts
 
